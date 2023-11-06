@@ -1,3 +1,5 @@
-.breakpoints
-.pythonlibs/*.pythonlibs
 replit.nix
+.pythonlibs/
+.replit
+.breakpoints
+poetry.lock
